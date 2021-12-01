@@ -3,7 +3,7 @@ The code for ImageNet CNN and CapsNet based hybrid model for steel defect recogn
 
 Paper published in 2021 IEEE International Conference on Image Processing (ICIP), and availaible at https://ieeexplore.ieee.org/document/9506405
 
-Kindly cite the paper if you use this code.
+Kindly cite the paper if you find the study relevant, and useful.
 
 BibTex: 
 @INPROCEEDINGS{9506405,  author={Nath, Vikanksh and Chattopadhyay, Chiranjoy},  booktitle={2021 IEEE International Conference on Image Processing (ICIP)},   title={S2D2Net: An Improved Approach For Robust Steel Surface Defects Diagnosis With Small Sample Learning},   year={2021},  volume={},  number={},  pages={1199-1203},  doi={10.1109/ICIP42928.2021.9506405}}
